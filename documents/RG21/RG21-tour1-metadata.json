@@ -201,7 +201,7 @@
         "prenomTeteListe": "Ary", 
         "nomListe": "Continuons d'avancer", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "1-01-1", 
         "pdf_acc": "0"
       }, 
       {
@@ -721,7 +721,7 @@
         "prenomTeteListe": "Pierre-Yves", 
         "nomListe": "Bretagne insoumise", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "1-53-4", 
         "pdf_acc": "0"
       }, 
       {
@@ -1374,7 +1374,7 @@
         "nomListe": "LE RASSEMBLEMENT ECOLOGIQUE ET SOCIAL", 
         "falc": "0", 
         "pdf": "0", 
-        "pdf_acc": "0"
+        "pdf_acc": "1-93-2-acc"
       }, 
       {
         "falc_acc": "0", 
