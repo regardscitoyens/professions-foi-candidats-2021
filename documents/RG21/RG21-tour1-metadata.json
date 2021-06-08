@@ -992,8 +992,8 @@
         "numPanneau": 9, 
         "prenomTeteListe": "Anthony", 
         "nomListe": "Union Essentielle", 
-        "falc": "0", 
-        "pdf": "0", 
+        "falc": "1-76-9-falc", 
+        "pdf": "1-76-9", 
         "pdf_acc": "0"
       }
     ], 
@@ -1296,8 +1296,8 @@
         "numPanneau": 6, 
         "prenomTeteListe": "Val\u00e9rie", 
         "nomListe": "Ile-de-France rassembl\u00e9e avec Val\u00e9rie P\u00e9cresse", 
-        "falc": "0", 
-        "pdf": "0", 
+        "falc": "1-11-6-falc", 
+        "pdf": "1-11-6", 
         "pdf_acc": "0"
       }, 
       {
@@ -1326,8 +1326,8 @@
         "numPanneau": 9, 
         "prenomTeteListe": "Laurent", 
         "nomListe": "Envie d'\u00cele-de-France", 
-        "falc": "0", 
-        "pdf": "0", 
+        "falc": "1-11-9-falc", 
+        "pdf": "1-11-9", 
         "pdf_acc": "0"
       }, 
       {
