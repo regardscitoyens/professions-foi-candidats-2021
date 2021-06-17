@@ -472,7 +472,7 @@
         "numPanneau": 4, 
         "prenomTeteListe": "Karima", 
         "nomListe": "Pour le climat, pour l'emploi avec Karima Delli. Union de la gauche et des \u00e9cologistes.", 
-        "falc": "0", 
+        "falc": "1-32-4-falc", 
         "pdf": "1-32-4", 
         "pdf_acc": "0"
       }, 
@@ -1347,7 +1347,7 @@
         "prenomTeteListe": "Cl\u00e9mentine", 
         "nomListe": "Pouvoir vivre en \u00cele-de-France", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "1-11-11", 
         "pdf_acc": "0"
       }
     ], 
@@ -1394,7 +1394,7 @@
         "nomListe": "L'ECOLOGIE AU CENTRE", 
         "falc": "0", 
         "pdf": "0", 
-        "pdf_acc": "0"
+        "pdf_acc": "1-93-4-acc"
       }, 
       {
         "falc_acc": "0", 
