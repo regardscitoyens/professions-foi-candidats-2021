@@ -12177,12 +12177,12 @@
         "url": "https://programme-candidats.interieur.gouv.fr/elections-departementales-2021/ajax/1_candidats_canton_56-09", 
         "candidats": [
           {
-            "falc_acc": "0", 
+            "falc_acc": "1-56-09-1-falc-acc", 
             "numPanneau": 1, 
             "candidats": "M. GIRARD Damien et Mme M\u00c9TAYER Rozenn", 
             "falc": "0", 
             "pdf": "0", 
-            "pdf_acc": "0"
+            "pdf_acc": "1-56-09-1-acc"
           }, 
           {
             "falc_acc": "0", 
@@ -26799,7 +26799,7 @@
             "numPanneau": 4, 
             "candidats": "Mme BARREILLE Eliane et M. BONDIL Claude", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-04-12-4", 
             "pdf_acc": "0"
           }
         ], 
@@ -33061,7 +33061,7 @@
             "numPanneau": 7, 
             "candidats": "M. DAUTRY Wilfrid et Mme DUFRAIX Aurelie", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-33-18-7", 
             "pdf_acc": "0"
           }
         ], 
@@ -33239,7 +33239,7 @@
             "numPanneau": 6, 
             "candidats": "M. LATRILLE Guillaume et Mme TCHIKAYA Marl\u00e8ne", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-33-33-6", 
             "pdf_acc": "0"
           }, 
           {
@@ -50947,7 +50947,7 @@
             "numPanneau": 2, 
             "candidats": "M. DESSANGES Jean-Christophe et Mme POMEAU Elvire", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-92-06-2", 
             "pdf_acc": "0"
           }, 
           {
@@ -51301,7 +51301,7 @@
             "numPanneau": 2, 
             "candidats": "Mme BLANCHETOT M\u00e9lanie et M. GENTIL Pascal", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-92-20-2", 
             "pdf_acc": "0"
           }, 
           {
@@ -57879,7 +57879,7 @@
             "numPanneau": 1, 
             "candidats": "Mme MADELAINE Pauline et M. MOURARET Pierre", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-14-04-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -63863,7 +63863,7 @@
             "numPanneau": 7, 
             "candidats": "Mme DESSABLES Fabienne et M. VOSGIEN Patrick", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-26-7", 
             "pdf_acc": "0"
           }
         ], 
@@ -63969,7 +63969,7 @@
             "numPanneau": 3, 
             "candidats": "M. MAIA Pedro et Mme PAQUIS-LAURENT Elsa", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-07-3", 
             "pdf_acc": "0"
           }, 
           {
@@ -64067,7 +64067,7 @@
             "numPanneau": 1, 
             "candidats": "Mme COANET Juliette et M. LE CALOCH Christian", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-08-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -64213,7 +64213,7 @@
             "numPanneau": 2, 
             "candidats": "M. TURQUOIS Laurent et Mme VOLEAU Julie", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-29-2", 
             "pdf_acc": "0"
           }
         ], 
@@ -64305,7 +64305,7 @@
             "numPanneau": 5, 
             "candidats": "M. CAMUS-LUTZ Pierre et Mme COUVEZ Florence", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-24-5", 
             "pdf_acc": "0"
           }, 
           {
@@ -64335,7 +64335,7 @@
             "numPanneau": 2, 
             "candidats": "Mme CALHAN Newroz et M. OLLIVIER Leny", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-25-2", 
             "pdf_acc": "0"
           }, 
           {
@@ -64365,7 +64365,7 @@
             "numPanneau": 1, 
             "candidats": "M. BARRETEAU Antoine et Mme BITHOREL Delphine", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-27-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -64473,7 +64473,7 @@
             "numPanneau": 1, 
             "candidats": "Mme COCHIN Julie et M. PROUTIERE Nicolas", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-21-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -64587,7 +64587,7 @@
             "numPanneau": 1, 
             "candidats": "M. CHEVALIER Bruno et Mme GUEZET Anouk", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-13-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -64671,7 +64671,7 @@
             "numPanneau": 1, 
             "candidats": "M. SALECROIX Robin et Mme SEASSAU Clotilde", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-15-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -64717,7 +64717,7 @@
             "numPanneau": 3, 
             "candidats": "M. CHEBANIER Cl\u00e9ment et Mme UZUNPINAR Gulasor", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-22-3", 
             "pdf_acc": "0"
           }, 
           {
@@ -64779,7 +64779,7 @@
             "numPanneau": 5, 
             "candidats": "Mme BLIN Nathalie et M. BRARD Philippe", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-17-5", 
             "pdf_acc": "0"
           }, 
           {
@@ -64825,7 +64825,7 @@
             "numPanneau": 3, 
             "candidats": "Mme ESSASSI Radia et M. SEASSAU Aymeric", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-16-3", 
             "pdf_acc": "0"
           }, 
           {
@@ -64907,7 +64907,7 @@
             "numPanneau": 1, 
             "candidats": "Mme CAILLEAU Fabienne et M. MONDOU Laurent", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-44-31-1", 
             "pdf_acc": "0"
           }, 
           {
@@ -74301,7 +74301,7 @@
             "numPanneau": 1, 
             "candidats": "M. BREGEON Emile et Mme BRIFFE Anita", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-79-02-1", 
             "pdf_acc": "0"
           }, 
           {
