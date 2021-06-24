@@ -1,1 +1,694 @@
-{}
+{
+  "02": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_02", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "LETCHIMY", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Serge", 
+        "nomListe": "ALIANS MATINIK", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "NILOR", 
+        "numPanneau": 3, 
+        "prenomTeteListe": "Jean-Philippe", 
+        "nomListe": "ANSANM POU PEYI NOU", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MARIE-JEANNE", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Alfred", 
+        "nomListe": "GRAN SANBLE POU MATINIK", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "CONCONNE", 
+        "numPanneau": 13, 
+        "prenomTeteListe": "Catherine", 
+        "nomListe": "LA MARTINIQUE ENSEMBLE", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Martinique"
+  }, 
+  "03": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_03", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "SERVILLE", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Gabriel", 
+        "nomListe": "Guyane Kontr\u00e9 pour avancer sans limites", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ALEXANDRE", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Rodolphe", 
+        "nomListe": "Unis et engag\u00e9s pour notre territoire", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Guyane"
+  }, 
+  "01": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_01", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "CHALUS", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Ary", 
+        "nomListe": "Continuons d'avancer", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BOREL-LINCERTIN", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Josette", 
+        "nomListe": "PEYI GWADLOUP", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Guadeloupe"
+  }, 
+  "04": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_04", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ROBERT", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Didier", 
+        "nomListe": "Objectif RE'UNION", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BELLO", 
+        "numPanneau": 11, 
+        "prenomTeteListe": "Huguette", 
+        "nomListe": "LISTE D'UNION AVEC HUGUETTE BELLO", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "La R\u00e9union"
+  }, 
+  "32": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_32", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "CHENU", 
+        "numPanneau": 3, 
+        "prenomTeteListe": "S\u00e9bastien", 
+        "nomListe": "UNE REGION QUI VOUS PROTEGE AVEC SEBASTIEN CHENU", 
+        "falc": "0", 
+        "pdf": "2-32-3", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DELLI", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Karima", 
+        "nomListe": "Pour le climat, pour l'emploi avec Karima Delli. Union de la gauche et des \u00e9cologistes.", 
+        "falc": "2-32-4-falc", 
+        "pdf": "2-32-4", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BERTRAND", 
+        "numPanneau": 5, 
+        "prenomTeteListe": "Xavier", 
+        "nomListe": "SE BATTRE POUR VOUS !", 
+        "falc": "0", 
+        "pdf": "2-32-5", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Hauts-de-France"
+  }, 
+  "44": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_44", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "KLINKERT", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Brigitte", 
+        "nomListe": "La force de nos territoires", 
+        "falc": "0", 
+        "pdf": "2-44-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "JACOBELLI", 
+        "numPanneau": 5, 
+        "prenomTeteListe": "Laurent", 
+        "nomListe": "RASSEMBLEMENT POUR L'ALSACE, LA CHAMPAGNE-ARDENNE ET LA LORRAINE", 
+        "falc": "0", 
+        "pdf": "2-44-5", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ROTTNER", 
+        "numPanneau": 8, 
+        "prenomTeteListe": "Jean", 
+        "nomListe": "Plus forts ensemble avec Jean Rottner", 
+        "falc": "0", 
+        "pdf": "2-44-8", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ROMANI", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Eliane", 
+        "nomListe": "Il est temps ! Pour l'\u00e9cologie et la justice sociale en Grand Est", 
+        "falc": "0", 
+        "pdf": "2-44-9", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Grand Est"
+  }, 
+  "28": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_28", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BONNATERRE", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Laurent", 
+        "nomListe": "NORMANDIE TERRE D'AVENIR", 
+        "falc": "0", 
+        "pdf": "2-28-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BOULANGER", 
+        "numPanneau": 5, 
+        "prenomTeteListe": "M\u00e9lanie", 
+        "nomListe": "LA NORMANDIE NOUS RASSEMBLE", 
+        "falc": "0", 
+        "pdf": "2-28-5", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MORIN", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Herv\u00e9", 
+        "nomListe": "VIVRE LA NORMANDIE AVEC HERVE MORIN", 
+        "falc": "0", 
+        "pdf": "2-28-6", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BAY", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Nicolas", 
+        "nomListe": "FAIRE GAGNER LA NORMANDIE LISTE SOUTENUE PAR LE RASSEMBLEMENT NATIONAL", 
+        "falc": "0", 
+        "pdf": "2-28-7", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Normandie"
+  }, 
+  "53": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_53", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "LE CALLENNEC", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Isabelle", 
+        "nomListe": "HISSONS HAUT LA BRETAGNE", 
+        "falc": "0", 
+        "pdf": "2-53-1", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DESMARES-POIRRIER", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Claire", 
+        "nomListe": "BRETAGNE D'AVENIR", 
+        "falc": "0", 
+        "pdf": "2-53-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BURLOT", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Thierry", 
+        "nomListe": "NOUS LA BRETAGNE AVEC THIERRY BURLOT", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "CHESNAIS-GIRARD", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Lo\u00efg", 
+        "nomListe": "La Bretagne avec Lo\u00efg", 
+        "falc": "0", 
+        "pdf": "2-53-7", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "PENNELLE", 
+        "numPanneau": 10, 
+        "prenomTeteListe": "Gilles", 
+        "nomListe": "Une Bretagne forte, liste soutenue par le rassemblement national.", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Bretagne"
+  }, 
+  "52": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_52", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ORPHELIN", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Matthieu", 
+        "nomListe": "L'ECOLOGIE ET LA GAUCHE ENSEMBLE, SOLIDAIRES ET CITOYENNES.LISTE D'UNION DES ECOLOGISTES ET DE LA GAUCHE", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DE RUGY", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Fran\u00e7ois", 
+        "nomListe": "LA REGION DE TOUS LES PROGRES", 
+        "falc": "0", 
+        "pdf": "2-52-4", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MORAN\u00c7AIS", 
+        "numPanneau": 5, 
+        "prenomTeteListe": "Christelle", 
+        "nomListe": "UNION DE LA DROITE ET DU CENTRE", 
+        "falc": "0", 
+        "pdf": "2-52-5", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "JUVIN", 
+        "numPanneau": 8, 
+        "prenomTeteListe": "Herv\u00e9", 
+        "nomListe": "POUR UNE REGION QUI VOUS PROTEGE-Liste soutenue par le Rassemblement National", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Pays de la Loire"
+  }, 
+  "76": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_76", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "GARRAUD", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Jean-Paul", 
+        "nomListe": "Rassembler l'Occitanie", 
+        "falc": "0", 
+        "pdf": "2-76-1", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "PRADI\u00c9", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Aur\u00e9lien", 
+        "nomListe": "Du courage pour l'Occitanie!", 
+        "falc": "0", 
+        "pdf": "2-76-4", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DELGA", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Carole", 
+        "nomListe": "L'Occitanie en Commun avec Carole DELGA", 
+        "falc": "2-76-7-falc", 
+        "pdf": "2-76-7", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Occitanie"
+  }, 
+  "75": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_75", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DIAZ", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Edwige", 
+        "nomListe": "Une r\u00e9gion au service de la France liste soutenue par le Rassemblement National", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ROUSSET", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Alain", 
+        "nomListe": "Nos Territoires nos \u00e9nergies avec Alain Rousset", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "2-75-2-acc"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "THIERRY", 
+        "numPanneau": 5, 
+        "prenomTeteListe": "Nicolas", 
+        "nomListe": "Nos terroirs notre avenir", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "2-75-5-acc"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "FLORIAN", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Nicolas", 
+        "nomListe": "Liste d'union de la droite et du centre autour de Nicolas Florian", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DARRIEUSSECQ", 
+        "numPanneau": 8, 
+        "prenomTeteListe": "Genevi\u00e8ve", 
+        "nomListe": "L'UNION FAIT LA REGION", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "2-75-8-acc"
+      }
+    ], 
+    "name": "Nouvelle-Aquitaine"
+  }, 
+  "27": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_27", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ODOUL", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Julien", 
+        "nomListe": "POUR UNE REGION QUI VOUS PROTEGE Liste soutenue par le Rassemblement National", 
+        "falc": "0", 
+        "pdf": "2-27-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "THURIOT", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Denis", 
+        "nomListe": "La R\u00e9gion partout et pour tous - Majorit\u00e9 pr\u00e9sidentielle", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "DUFAY", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Marie-Guite", 
+        "nomListe": "Notre R\u00e9gion par Coeur", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "PLATRET", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Gilles", 
+        "nomListe": "Pour la Bourgogne et la Franche-Comt\u00e9", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Bourgogne-Franche-Comt\u00e9"
+  }, 
+  "24": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_24", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "FESNEAU", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Marc", 
+        "nomListe": "Ensemble, le meilleur est avenir", 
+        "falc": "0", 
+        "pdf": "2-24-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "NIKOLIC", 
+        "numPanneau": 3, 
+        "prenomTeteListe": "Aleksandar", 
+        "nomListe": "Pour une r\u00e9gion qui vous prot\u00e8ge avec le Rassemblement National et alli\u00e9s", 
+        "falc": "0", 
+        "pdf": "2-24-3", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BONNEAU", 
+        "numPanneau": 4, 
+        "prenomTeteListe": "Fran\u00e7ois", 
+        "nomListe": "PLUS FORT ENSEMBLE ! Avec Fran\u00e7ois BONNEAU", 
+        "falc": "0", 
+        "pdf": "2-24-4", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "FORISSIER", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Nicolas", 
+        "nomListe": "Union de la Droite, du Centre et des Ind\u00e9pendants", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Centre-Val de Loire"
+  }, 
+  "11": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_11", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BARDELLA", 
+        "numPanneau": 1, 
+        "prenomTeteListe": "Jordan", 
+        "nomListe": "LE CHOIX DE LA S\u00c9CURIT\u00c9 LISTE SOUTENUE PAR LE RASSEMBLEMENT NATIONAL", 
+        "falc": "0", 
+        "pdf": "2-11-1", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BAYOU", 
+        "numPanneau": 3, 
+        "prenomTeteListe": "Julien", 
+        "nomListe": "Le rassemblement pour l'\u00e9cologie et la solidarit\u00e9", 
+        "falc": "0", 
+        "pdf": "2-11-3", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "P\u00c9CRESSE", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Val\u00e9rie", 
+        "nomListe": "Ile-de-France rassembl\u00e9e avec Val\u00e9rie P\u00e9cresse", 
+        "falc": "2-11-6-falc", 
+        "pdf": "2-11-6", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "SAINT-MARTIN", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Laurent", 
+        "nomListe": "Envie d'\u00cele-de-France", 
+        "falc": "0", 
+        "pdf": "2-11-9", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "\u00cele-de-France"
+  }, 
+  "93": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_93", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MARIANI", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Thierry", 
+        "nomListe": "Construisons la r\u00e9gion de demain liste soutenue par le Rassemblement National", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MUSELIER", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Renaud", 
+        "nomListe": "NOTRE REGION D'ABORD", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "2-93-9-acc"
+      }
+    ], 
+    "name": "Provence-Alpes-C\u00f4te d'Azur"
+  }, 
+  "94": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_94", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "MARCANGELI", 
+        "numPanneau": 3, 
+        "prenomTeteListe": "Laurent", 
+        "nomListe": "UN SOFFIU NOVU - UN NOUVEAU SOUFFLE", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "SIMEONI", 
+        "numPanneau": 7, 
+        "prenomTeteListe": "Gilles", 
+        "nomListe": "F\u00c0 POPULU INSEME", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "ANGELINI", 
+        "numPanneau": 8, 
+        "prenomTeteListe": "Jean-Christophe", 
+        "nomListe": "AVANZEMU P\u00c8 A CORSICA", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "BENEDETTI", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Paul-F\u00e9lix", 
+        "nomListe": "CORE IN FRONTE", 
+        "falc": "0", 
+        "pdf": "0", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Corse"
+  }, 
+  "84": {
+    "url": "https://programme-candidats.interieur.gouv.fr/elections-regionales-2021/ajax/2_listes_rg_84", 
+    "listes": [
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "GREBERT", 
+        "numPanneau": 2, 
+        "prenomTeteListe": "Fabienne", 
+        "nomListe": "Ensemble, l'\u00e9cologie c'est possible! Avec Fabienne GREBERT", 
+        "falc": "0", 
+        "pdf": "2-84-2", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "WAUQUIEZ", 
+        "numPanneau": 6, 
+        "prenomTeteListe": "Laurent", 
+        "nomListe": "Laurent Wauquiez - La R\u00e9gion avec toutes ses forces", 
+        "falc": "0", 
+        "pdf": "2-84-6", 
+        "pdf_acc": "0"
+      }, 
+      {
+        "falc_acc": "0", 
+        "nomTeteListe": "KOTARAC", 
+        "numPanneau": 9, 
+        "prenomTeteListe": "Andr\u00e9a", 
+        "nomListe": "Liste Rassemblement national avec Andr\u00e9a Kotarac", 
+        "falc": "0", 
+        "pdf": "2-84-9", 
+        "pdf_acc": "0"
+      }
+    ], 
+    "name": "Auvergne-Rh\u00f4ne-Alpes"
+  }
+}
