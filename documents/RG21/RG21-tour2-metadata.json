@@ -9,7 +9,7 @@
         "prenomTeteListe": "Serge", 
         "nomListe": "ALIANS MATINIK", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-02-1", 
         "pdf_acc": "0"
       }, 
       {
@@ -19,7 +19,7 @@
         "prenomTeteListe": "Jean-Philippe", 
         "nomListe": "ANSANM POU PEYI NOU", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-02-3", 
         "pdf_acc": "0"
       }, 
       {
@@ -29,7 +29,7 @@
         "prenomTeteListe": "Alfred", 
         "nomListe": "GRAN SANBLE POU MATINIK", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-02-9", 
         "pdf_acc": "0"
       }, 
       {
@@ -39,7 +39,7 @@
         "prenomTeteListe": "Catherine", 
         "nomListe": "LA MARTINIQUE ENSEMBLE", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-02-13", 
         "pdf_acc": "0"
       }
     ], 
@@ -66,7 +66,7 @@
         "nomListe": "Unis et engag\u00e9s pour notre territoire", 
         "falc": "0", 
         "pdf": "0", 
-        "pdf_acc": "0"
+        "pdf_acc": "2-03-4-acc"
       }
     ], 
     "name": "Guyane"
@@ -281,7 +281,7 @@
         "prenomTeteListe": "Thierry", 
         "nomListe": "NOUS LA BRETAGNE AVEC THIERRY BURLOT", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-53-6", 
         "pdf_acc": "0"
       }, 
       {
@@ -317,7 +317,7 @@
         "prenomTeteListe": "Matthieu", 
         "nomListe": "L'ECOLOGIE ET LA GAUCHE ENSEMBLE, SOLIDAIRES ET CITOYENNES.LISTE D'UNION DES ECOLOGISTES ET DE LA GAUCHE", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-52-1", 
         "pdf_acc": "0"
       }, 
       {
@@ -419,8 +419,8 @@
         "prenomTeteListe": "Nicolas", 
         "nomListe": "Nos terroirs notre avenir", 
         "falc": "0", 
-        "pdf": "0", 
-        "pdf_acc": "2-75-5-acc"
+        "pdf": "2-75-5", 
+        "pdf_acc": "0"
       }, 
       {
         "falc_acc": "0", 
@@ -429,7 +429,7 @@
         "prenomTeteListe": "Nicolas", 
         "nomListe": "Liste d'union de la droite et du centre autour de Nicolas Florian", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-75-7", 
         "pdf_acc": "0"
       }, 
       {
@@ -439,8 +439,8 @@
         "prenomTeteListe": "Genevi\u00e8ve", 
         "nomListe": "L'UNION FAIT LA REGION", 
         "falc": "0", 
-        "pdf": "0", 
-        "pdf_acc": "2-75-8-acc"
+        "pdf": "2-75-8", 
+        "pdf_acc": "0"
       }
     ], 
     "name": "Nouvelle-Aquitaine"
@@ -465,7 +465,7 @@
         "prenomTeteListe": "Denis", 
         "nomListe": "La R\u00e9gion partout et pour tous - Majorit\u00e9 pr\u00e9sidentielle", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-27-4", 
         "pdf_acc": "0"
       }, 
       {
@@ -475,7 +475,7 @@
         "prenomTeteListe": "Marie-Guite", 
         "nomListe": "Notre R\u00e9gion par Coeur", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-27-6", 
         "pdf_acc": "0"
       }, 
       {
@@ -485,7 +485,7 @@
         "prenomTeteListe": "Gilles", 
         "nomListe": "Pour la Bourgogne et la Franche-Comt\u00e9", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-27-7", 
         "pdf_acc": "0"
       }
     ], 
@@ -531,7 +531,7 @@
         "prenomTeteListe": "Nicolas", 
         "nomListe": "Union de la Droite, du Centre et des Ind\u00e9pendants", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-24-6", 
         "pdf_acc": "0"
       }
     ], 
@@ -594,7 +594,7 @@
         "nomListe": "Construisons la r\u00e9gion de demain liste soutenue par le Rassemblement National", 
         "falc": "0", 
         "pdf": "0", 
-        "pdf_acc": "0"
+        "pdf_acc": "2-93-6-acc"
       }, 
       {
         "falc_acc": "0", 
@@ -619,7 +619,7 @@
         "prenomTeteListe": "Laurent", 
         "nomListe": "UN SOFFIU NOVU - UN NOUVEAU SOUFFLE", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-94-3", 
         "pdf_acc": "0"
       }, 
       {
@@ -629,7 +629,7 @@
         "prenomTeteListe": "Gilles", 
         "nomListe": "F\u00c0 POPULU INSEME", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-94-7", 
         "pdf_acc": "0"
       }, 
       {
@@ -639,7 +639,7 @@
         "prenomTeteListe": "Jean-Christophe", 
         "nomListe": "AVANZEMU P\u00c8 A CORSICA", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-94-8", 
         "pdf_acc": "0"
       }, 
       {
@@ -649,7 +649,7 @@
         "prenomTeteListe": "Paul-F\u00e9lix", 
         "nomListe": "CORE IN FRONTE", 
         "falc": "0", 
-        "pdf": "0", 
+        "pdf": "2-94-9", 
         "pdf_acc": "0"
       }
     ], 
