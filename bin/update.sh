@@ -1,8 +1,13 @@
 #!/bin/bash
 
 cd $(echo $0 | sed 's#/[^/]*$##')/..
-source /usr/local/bin/virtualenvwrapper.sh
-workon proffoi
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"    # if `pyenv` is not already on PATH
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+export PYENV_VIRTUALENV_DISABLE_PROMPT=1
+pyenv activate proffoi
 
 git pull > /tmp/load_prof_foi.tmp 2>&1
 
