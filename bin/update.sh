@@ -6,8 +6,7 @@ workon proffoi
 
 git pull > /tmp/load_prof_foi.tmp 2>&1
 
-bin/scrap.py RG21 >> /tmp/load_prof_foi.tmp 2>&1
-bin/scrap.py DP21 >> /tmp/load_prof_foi.tmp 2>&1
+bin/scrap.py LG22 >> /tmp/load_prof_foi.tmp 2>&1
 
 if git status | grep "documents/" > /dev/null; then
   cat /tmp/load_prof_foi.tmp

@@ -9,7 +9,8 @@ import requests
 HOSTURL = 'https://programme-candidats.interieur.gouv.fr/'
 URLS = {
     "DP21": HOSTURL + "elections-departementales-2021/",
-    "RG21": HOSTURL + "elections-regionales-2021/"
+    "RG21": HOSTURL + "elections-regionales-2021/",
+    "LG22": HOSTURL + "elections-legislatives-2022/"
 }
 
 
@@ -144,6 +145,61 @@ def scrape_departementales_2021(elcode="DP21"):
         if nb_n:
             print "%s tour %s: %s new documents collected (%s total candidates are published out of %s listed in %s departments and %s cantons)." % (elcode, tour, nb_n, nb_d, nb_c, nb_dep, nb_cantons)
 
+def scrape_legislatives_2022(elcode="LG22"):
+    eldir = os.path.join("documents", elcode)
+    if not os.path.exists(eldir):
+        os.makedirs(eldir)
+    for tour in [1, 2]:
+        nb_dep = 0
+        nb_circo = 0
+        nb_c = 0
+        nb_d = 0
+        nb_n = 0
+        url = URLS[elcode] + "ajax/%s_departements" % tour
+        data = {}
+        for dept in request_data(url, "data", allow_fail=True):
+            nb_dep += 1
+            depcode = dept["id"]
+            depname = dept["name"]
+            depurl = URLS[elcode] + "ajax/%s_circos_dpt_%s" % (tour, depcode)
+            data[depcode] = {
+                "name": depname,
+                "url": depurl,
+                "circonscriptions": {}
+            }
+            deptdir = os.path.join(eldir, depcode)
+            if not os.path.exists(deptdir):
+                os.makedirs(deptdir)
+            for circo in request_data(depurl, "data"):
+                nb_circo += 1
+                circocode = circo["codeDivision"]
+                circoname = circo["division"]
+                circourl = URLS[elcode] + "ajax/%s_candidats_circo_%s-%s" % (tour, depcode, circocode)
+                data[depcode]["circonscriptions"][circocode] = {
+                    "name": circoname,
+                    "url": circourl,
+                    "candidats": request_data(circourl, "data")
+                }
+                circodir = os.path.join(deptdir, circocode)
+                if not os.path.exists(circodir):
+                    os.makedirs(circodir)
+                for candidat in data[depcode]["circonscriptions"][circocode]["candidats"]:
+                    nb_c += 1
+                    name = "%s %s" % (candidat["candidatPrenom"], candidat["candidatNom"])
+                    codeId = "%s-%s-%s-tour%s-%s-%s-" % (elcode, depcode, circocode, tour, candidat["numPanneau"], name)
+                    pdf = candidat["pdf_acc"] if candidat["pdf_acc"] != "0" else candidat["pdf"]
+                    if pdf != "0":
+                        nb_d += 1
+                        nb_n += downloadPDF(circodir, codeId + "profession_foi", URLS[elcode] + "data-pdf-propagandes/%s.pdf" % pdf)
+                    pdf_falc = candidat["falc_acc"] if candidat["falc_acc"] != "0" else candidat["falc"]
+                    if pdf_falc != "0":
+                        downloadPDF(circodir, codeId + "profession_foi_falc", URLS[elcode] + "data-pdf-propagandes/%s.pdf" % pdf_falc)
+
+        with open(os.path.join(eldir, "%s-tour%s-metadata.json" % (elcode, tour)), "w") as f:
+            json.dump(data, f, indent=2)
+        if nb_n:
+            print "%s tour %s: %s new documents collected (%s total candidates are published out of %s listed in %s departments and %s circos)." % (elcode, tour, nb_n, nb_d, nb_c, nb_dep, nb_circo)
+
 
 
 if __name__ == '__main__':
@@ -154,3 +210,5 @@ if __name__ == '__main__':
         scrape_regionales_2021()
     elif election == "DP21":
         scrape_departementales_2021()
+    elif election == "LG22":
+        scrape_legislatives_2022()
