@@ -170,7 +170,7 @@ def scrape_legislatives_2022(elcode="LG22"):
             deptdir = os.path.join(eldir, depcode)
             if not os.path.exists(deptdir):
                 os.makedirs(deptdir)
-            for circo in request_data(depurl, "data"):
+            for circo in request_data(depurl, "data", allow_fail=True):
                 nb_circo += 1
                 circocode = circo["codeDivision"]
                 circoname = circo["division"]
