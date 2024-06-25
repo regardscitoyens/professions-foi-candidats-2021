@@ -11,7 +11,7 @@ pyenv activate proffoi
 
 git pull > /tmp/load_prof_foi.tmp 2>&1
 
-bin/scrap.py LG22 >> /tmp/load_prof_foi.tmp 2>&1
+bin/scrap.py LG24 >> /tmp/load_prof_foi.tmp 2>&1
 
 if git status | grep "documents/" > /dev/null; then
   cat /tmp/load_prof_foi.tmp
