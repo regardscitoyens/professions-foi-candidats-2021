@@ -10,7 +10,8 @@ HOSTURL = 'https://programme-candidats.interieur.gouv.fr/'
 URLS = {
     "DP21": HOSTURL + "elections-departementales-2021/",
     "RG21": HOSTURL + "elections-regionales-2021/",
-    "LG22": HOSTURL + "elections-legislatives-2022/"
+    "LG22": HOSTURL + "elections-legislatives-2022/",
+    "LG24": HOSTURL + "elections-legislatives-2024/"
 }
 
 
@@ -36,6 +37,7 @@ def downloadPDF(eldir, filename, url, retries=3):
 
 def request_data(url, field, fallback_field=None, retries=10, allow_fail=False):
     jsonurl = "%s.json?_=%s" % (url, time.time())
+    #print "CALL %s" % jsonurl
     try:
         jsondata = requests.get(jsonurl).json()
         if field in jsondata:
@@ -145,7 +147,7 @@ def scrape_departementales_2021(elcode="DP21"):
         if nb_n:
             print "%s tour %s: %s new documents collected (%s total candidates are published out of %s listed in %s departments and %s cantons)." % (elcode, tour, nb_n, nb_d, nb_c, nb_dep, nb_cantons)
 
-def scrape_legislatives_2022(elcode="LG22"):
+def scrape_legislatives(elcode="LG22"):
     eldir = os.path.join("documents", elcode)
     if not os.path.exists(eldir):
         os.makedirs(eldir)
@@ -174,7 +176,10 @@ def scrape_legislatives_2022(elcode="LG22"):
                 nb_circo += 1
                 circocode = circo["codeDivision"]
                 circoname = circo["division"]
-                circourl = URLS[elcode] + "ajax/%s_candidats_circo_%s-%s" % (tour, depcode, circocode)
+                if elcode == "LG22":
+                    circourl = URLS[elcode] + "ajax/%s_candidats_circo_%s-%s" % (tour, depcode, circocode)
+                else:
+                    circourl = URLS[elcode] + "ajax/%s_candidats_circo_%s" % (tour, circocode)
                 data[depcode]["circonscriptions"][circocode] = {
                     "name": circoname,
                     "url": circourl,
@@ -210,5 +215,5 @@ if __name__ == '__main__':
         scrape_regionales_2021()
     elif election == "DP21":
         scrape_departementales_2021()
-    elif election == "LG22":
-        scrape_legislatives_2022()
+    elif election.startswith("LG"):
+        scrape_legislatives(election)
