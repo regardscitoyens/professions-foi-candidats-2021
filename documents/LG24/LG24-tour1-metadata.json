@@ -11542,13 +11542,13 @@
             "candidatSexe": "F"
           }, 
           {
-            "falc_acc": "0", 
+            "falc_acc": "1-80-8002-9-falc-acc", 
             "suppleantPrenom": "Brigitte", 
             "candidatPrenom": "Gr\u00e9goire", 
             "numPanneau": 9, 
             "candidatNom": "LECOCQ", 
             "falc": "0", 
-            "pdf": "0", 
+            "pdf": "1-80-8002-9", 
             "pdf_acc": "0", 
             "suppleantSexe": "F", 
             "suppleantNom": "GATET", 
